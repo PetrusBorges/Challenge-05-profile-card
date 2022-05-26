@@ -1,7 +1,5 @@
 # Frontend Mentor - Profile card component
 
-[NFT CARD - Petrus Borges](https://petrusborges-nft-card-challenge.netlify.app)
-
 [CHALLENGER PROFILE - Petrus Borges](https://petrusborges-profile-card.netlify.app)
 
 ## Welcome! 👋
