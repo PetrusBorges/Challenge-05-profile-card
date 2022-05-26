@@ -1,6 +1,8 @@
 # Frontend Mentor - Profile card component
 
-![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
+[NFT CARD - Petrus Borges](https://petrusborges-nft-card-challenge.netlify.app)
+
+[CHALLENGER PROFILE - Petrus Borges](https://petrusborges-profile-card.netlify.app)
 
 ## Welcome! 👋
 
