@@ -28,7 +28,7 @@ body {
   -o-object-fit: cover;
      object-fit: cover;
   background-repeat: no-repeat, no-repeat;
-  background-position: right 650px bottom 200px, left 700px top 390px;
+  background-position: right 900px bottom 200px, left 900px top 390px;
 }
 
 body .container {
